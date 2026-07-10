@@ -4,6 +4,14 @@ Objetivo:
 
 Desenvolver um modelo de Machine Learning capaz de classificar o score de crédito de clientes a partir de informações financeiras e comportamentais.
 
+Perguntas Norteadoras:
+
+- Quais variáveis podem ter maior relação com a capacidade de pagamento dos clientes?
+- Qual perfil de cliente possui maior probabilidade de ser classificado como Score 'Poor'?
+- Um modelo de Machine Learning consegue classificar o score de crédito dos clientes com boa performance?
+- Como os resultados do modelo poderiam apoiar uma equipe de crédito na priorização de análises, concessão de crédito ou revisão de limites?
+- Quais cuidados éticos e de negócio devem ser considerados antes de usar um modelo como esse em produção?
+
 Dataset:
 
 - Credit Score Classification (Kaggle)
